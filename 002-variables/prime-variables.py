@@ -29,3 +29,9 @@ a5= "John"
 b5 = 'John'
 print(a5 == b5)
 
+
+
+a = 4
+A = "Case Sensitive Test"
+print(a)
+print(A)
